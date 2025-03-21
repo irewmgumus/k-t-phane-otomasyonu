@@ -1,1 +1,1 @@
-# k-t-phane-otomasyonu
+# asp mvc web projesi
